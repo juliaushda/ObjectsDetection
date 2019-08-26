@@ -16,7 +16,3 @@ Requirements
 Once open, type the following on the command line:
     `pip install --ignore-installed --upgrade tensorflow==1.14`
 
-
-Result
---------------
-![alt text](Example.jpg)
